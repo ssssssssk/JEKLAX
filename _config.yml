@@ -1,6 +1,6 @@
 baseurl: /JEKLAX
 exclude: ['README.md']
 prose: 
-	rooturl: '_posts'
-	media: 'media'
+ rooturl: '_posts'
+ media: 'media'
 
