@@ -22,3 +22,23 @@ prose:
      field:
       element: "text"
       label: "show"
+   - name: "show-dates"
+     field: 
+      element: "text"
+      label: "start and end dates with &mdash; in between"
+   - name: "contact-email"
+     field:
+      element: "text"
+      label: "contact email @laxart.org is presumed so just the name"
+   - name: "image-link"
+     field: 
+      element: "text"
+      label: "image link"
+   - name: "photo-credit"
+     field: 
+      element: "text"
+      label: "photo credit full text"
+   - name: "link-onsite"
+     field:
+      element: "text"
+      label: "Link to show on website"
