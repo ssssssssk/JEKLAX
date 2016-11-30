@@ -1,9 +1,9 @@
 baseurl: /JEKLAX
 exclude: ['README.md']
 prose: 
-  rooturl: '_posts'
-  siteurl: 'https://ssssssssk.github.io/JEKLAX/'
-  media: 'media'
+  rooturl: "_posts"
+  siteurl: "https://ssssssssk.github.io/JEKLAX/"
+  media: "media"
   metadata: 
     _posts:
 		- name: "layout"
@@ -14,7 +14,6 @@ prose:
       		field: 
 				element: "text"
 				label: "title"
-				value: ""
     	- name: "artist"
       		field: 
         		element: "text"
