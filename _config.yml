@@ -14,11 +14,11 @@ prose:
          value: "PR-FINAL"
        - name: "SD-FINAL"
          value: "SD-FINAL"
-    - name: "artist"
-      field: 
-       element: "text"
-       label: "artist name"
-    - name: "show"
-      field:
-       element: "text"
-       label: "show"
+   - name: "artist"
+     field: 
+      element: "text"
+      label: "artist name"
+   - name: "show"
+     field:
+      element: "text"
+      label: "show"
