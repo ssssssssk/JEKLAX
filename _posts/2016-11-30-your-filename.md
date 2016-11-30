@@ -1,6 +1,6 @@
 ---
 layout: SD-FINAL
-published: false
+published: true
 category: dates
 ---
 ## A New Post
