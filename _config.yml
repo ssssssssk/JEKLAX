@@ -5,11 +5,6 @@ prose:
   rooturl: '_posts'
   siteurl: 'https://ssssssssk.github.io/JEKLAX/'
   media: 'media'
-  ignore:
-	- index.md
-	- _config.yml
-	- /_layouts
-	- /_includes
   metadata: 
     _posts:
     	- name: title
