@@ -8,10 +8,11 @@ prose:
       field: 
         element: "multiselect"
         label: "choose what type of email"
+        placeholder: "PR or SD"
           options: 
-            - name: pr
+            - name: "pr"
               value: PR-FINAL
-            - name: sd
+            - name: "sd"
               value: SD-FINAL
     - name: title
       field: 
