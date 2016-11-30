@@ -5,8 +5,9 @@ prose:
   rooturl: '_posts'
   siteurl: 'https://ssssssssk.github.io/JEKLAX/'
   media: 'media'
-  _posts:
+  
   metadata: 
+    _posts:
     - name: "layout"
       field: 
         element: "select"
