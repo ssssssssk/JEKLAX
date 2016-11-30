@@ -42,3 +42,12 @@ prose:
      field:
       element: "text"
       label: "Link to show on website"
+   - name: "category"
+     field: 
+      element: "select"
+      label: "select category"
+      options:
+       - name: "Press Release" 
+         value: "press"
+       - name: "Save The Date"
+         value: "dates"
