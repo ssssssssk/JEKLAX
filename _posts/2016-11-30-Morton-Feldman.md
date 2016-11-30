@@ -1,6 +1,6 @@
 ---
 layout: PR-FINAL
-published: false
+published: true
 artist: MORTON FELDMAN
 show: Crippled Symmetry
 show-dates: >-
