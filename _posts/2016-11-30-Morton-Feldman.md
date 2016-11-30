@@ -4,8 +4,8 @@ published: true
 artist: MORTON FELDMAN
 show: Crippled Symmetry
 show-dates: >-
-  December 10, 2016 <br>Doors at 7:30 pm with confirmed RSVP <br>Performance at
-  8:00pm
+  "December 10, 2016 <br>Doors at 7:30 pm with confirmed RSVP <br>Performance at
+  8:00pm"
 contact-email: press
 photo-credit: "\"Above images: Morton Feldman photographed by Irene Haupt. Courtesy of MEC; Turkish Kirschehir rug, 3\x921\x94 x 4\x92 6\x94,  circa 1900, courtesy of Claremont Rug Company.\""
 link-onsite: '"http://laxart.org/events/view/morton-feldmans-crippled-symmetry/"'
