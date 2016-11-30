@@ -2,8 +2,8 @@ baseurl: /JEKLAX
 exclude: ['README.md']
 
 prose: 
+  _posts:
   metadata: 
-    _posts:
     - name: "layout"
       field: 
         element: select
