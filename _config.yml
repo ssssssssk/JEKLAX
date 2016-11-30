@@ -1,2 +1,21 @@
 baseurl: /JEKLAX
 exclude: ['README.md']
+
+prose: 
+  metadata: 
+    _posts:
+    - name: layout
+      field: 
+        element: "multiselect"
+        label: "choose what type of email"
+          options: 
+            - name: pr
+              value: PR-FINAL
+            - name: sd
+              value: SD-FINAL
+    - name: title
+      field: 
+        element: text
+    - name: artist
+      field: 
+        element: text
