@@ -11,9 +11,9 @@ prose:
         placeholder: "PR or SD"
           options: 
             - name: "pr"
-              value: PR-FINAL
+              value: "PR-FINAL"
             - name: "sd"
-              value: SD-FINAL
+              value: "SD-FINAL"
     - name: title
       field: 
         element: text
