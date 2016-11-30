@@ -1,6 +1,6 @@
 ---
 layout: PR-FINAL
-published: false
+published: true
 artist: GEORGE BRECHT
 show: A Totally Fake Show that is not happening
 category: press
