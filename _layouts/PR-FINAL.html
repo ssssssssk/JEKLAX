@@ -1,0 +1,80 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html charset=utf-8">
+	</head>
+<!-- Table layout as well as LAXART header -->
+	<body style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;" class="">
+		<table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">		
+			<tbody class="">
+				<tr>
+					<td width=10%></td>
+					<td>
+						<table align=center cellpadding="10" cellspacing="0" class="" style="height: auto; border: 2px solid black">
+						<tbody class="">
+							<tr class="" style="font-family: avenir, 'avenir next', helvetica, arial, sans-serif; letter-spacing: 1px;">
+								<td colspan="3" bgcolor="white" class="" style="height: 45px; font-size: 26px; line-height: 1.2; letter-spacing: 2px; color: black;"><a href="http://laxart.org/" class="" style="text-decoration: none; color: black; border-bottom: 2px solid">LA<span style="letter-spacing: -3.5px;">&gt;&lt;</span>&#8202;ART</a>
+								<br class="">
+								</td>
+							</tr>
+							<tr class="" style="font-family: avenir, 'avenir next', helvetica, arial, sans-serif;  letter-spacing: 1px;">
+								<td width="5%" valign="top" bgcolor="white" class="">
+								</td>
+								<td valign="top" bgcolor="white" class="" width=500 style="font-size: 18px; line-height: 1.2; letter-spacing: 0.5px; color: black; ">
+								<br class="" style="font-size: 18px; line-height: 1.2; letter-spacing: 0.5px; color: black;">
+								<br class="">
+									
+<!-- INSERT IMAGES UPLOADED TO WEBSITE HERE: Portrait Images are at 80% width, landscape images are 100% width-->
+								<img apple-inline="yes" height="auto" width="80%" apple-width="yes" apple-height="yes" src="{{page.image-link}}" class="">
+	
+								<br class="" style="font-size: 18px; line-height: 1.2; letter-spacing: 0.5px; color: black;">
+								<br class="">
+								<br class="">
+									
+<!-- INSERT ARTIST NAME (in caps) and SHOW NAME (in italics) as well as link to exhibition or event page-->
+								<a href="{{page.link-onsite}}" class="" style="text-decoration: none; color: black;">{{page.artist}}:
+								<br class=""><i>{{page.show}}</i></a>
+								<br class="">
+								<br class="">{{page.showopen-date}}&mdash;{{page.showclose-date}}
+								<br class="">{{page.opening}}
+								<br class=""
+								<br class="">Please RSVP: <a href="mailto:rsvp@laxart.org" class="" style="text-decoration: none; color: black;">rsvp@laxart.org </a>
+								<br class="">
+								
+									
+<!--  INSERT Body text here, check in original document for Italics or other formatting -->
+								<br class=""><span style="font-size: 14px; color: black;">{{content}}
+								</span>
+							
+									
+<!-- INSERT Photo credit if necessary -->
+								<br class=""><span style="font-size:10px; color:black;">{{page.photo-credit}}
+							
+								</span>
+								<br class="">
+								<br class="">
+								<br class=""><a href="http://laxart.org/" class="" style="text-decoration: none; color: black;">LA<span style="letter-spacing: -3.5px;">&gt;&lt;</span>&#8202;&#8202;ART
+								<br class="">7000 Santa Monica Blvd.
+								<br class="">Los Angeles, CA
+								<br class="">90038
+								<br class="">www.laxart.org</a>
+								<br class="">
+									
+<!-- CONTACT email: check to make sure link and name are matching -->									
+								<br class="">Press contact: <a href="mailto:{{page.contact-email}}@laxart.org" class="" style="text-decoration: none; color: black;">{{page.contact-email}}@laxart.org </a>
+								<img apple-inline="yes" height="auto" width="311" apple-width="yes" apple-height="yes" src="https://laxart-media.s3.amazonaws.com/images/hu51kB5hR6aM2w-aLhBkfw.jpg" class=""> 
+								</td>
+								<td class="" width="auto" valign="top" bgcolor=white>
+								</td>
+							</tr>
+						</tbody>
+						</table>
+						<br class="">
+						
+<!-- CURRENTLY or UPCOMING Section Double Check Links!-->
+			{% include footer.html %}
+					<td width=10%></td>
+				</tr>
+			</tbody>
+		</table>	
+	</body>
+</html>

@@ -1,0 +1,14 @@
+---
+layout: SD-FINAL
+category: dates
+title: "Faaaakee Date"
+artist: "FISdddONER"
+show: "FAKE dSHOW"
+show-dates: Jdanuary 34, 3000 - February 30, 3000
+contact-email: press
+image-link: "https://laxart-media.s3.amazonaws.com/thumbcache/4a/c7/4ac7e79548ff9fe6b07924020e6bd21a.jpg"
+photo-credit:
+link-onsite:
+---
+
+dfdfasdfasdfasdfasdf
