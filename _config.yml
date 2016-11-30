@@ -4,9 +4,9 @@ exclude: ['README.md']
 prose: 
   metadata: 
     _posts:
-    - name: layout
+    - name: "layout"
       field: 
-        element: "select"
+        element: select
         label: "choose what type of email"
         placeholder: "PR or SD"
           options: 
