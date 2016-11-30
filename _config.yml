@@ -51,3 +51,12 @@ prose:
          value: "press"
        - name: "Save The Date"
          value: "dates"
+   - name: "orientation"
+     field: 
+      element: "select"
+      label: "Choose image orientation"
+      options:
+       - name: "portrait" 
+         value: "80"
+       - name: "landscape"
+         value: "100"

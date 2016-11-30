@@ -22,5 +22,5 @@ Seating will include lounge areas of 19th century rugs and pillows on the floor,
 
 Special thanks to Jan David Winitz, Claremont Rug Company, and Kasimoff-Blüthner Piano Company.
 
-**About Monday Evening Concerts:**
+**About Monday Evening Concerts:**  
 Founded in 1939, Monday Evening Concerts (MEC) is one of the longest running series in the world devoted to contemporary music. MEC has gained international admiration for its presentation of music frequently new, sometimes old and always uniquely stimulating. Musical history is made at Monday Evening Concerts, whether it was the American debut of Pierre Boulez, world premieres of Igor Stravinsky, or the appearances here of such artists as Marino Formenti and the Arditti Quartet. Presenting the finest local and visiting artists, MEC is the place to hear adventurous new music in Los Angeles.Monday Evening Concerts is a seven-time national winner of the ASCAP/Chamber Music America Award for Adventurous Programming and is the subject of a full-length book entitled "Evenings On and Off the Roof," written by Dorothy Lamb Crawford. [www.mondayeveningconcerts.org](www.mondayeveningconcerts.org)
