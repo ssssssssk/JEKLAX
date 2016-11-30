@@ -7,11 +7,15 @@ prose:
   media: 'media'
   metadata: 
     _posts:
-    	- name: title
+		- name: "layout"
+			field:
+				element: "text"
+				label: "layout"
+    	- name: "title"
       		field: 
 				element: "text"
 				label: "title"
-    	- name: artist
+    	- name: "artist"
       		field: 
         		element: "text"
 				label: "artist"
