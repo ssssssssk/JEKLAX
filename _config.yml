@@ -14,7 +14,9 @@ prose:
       		field: 
 				element: "text"
 				label: "title"
+				value: ""
     	- name: "artist"
       		field: 
         		element: "text"
 				label: "artist"
+				value: ""
