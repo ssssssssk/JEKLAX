@@ -65,7 +65,7 @@ prose:
       element: "select"
       label: "RSVP to LAXART RSVP email?"
       options:
-       - name: "Yes" 
+       - name: "rsvp" 
          value: "<br class="">Please RSVP: <a href="mailto:rsvp@laxart.org" class="" style="text-decoration: none; color: black;">rsvp@laxart.org </a>"
-       - name: "No"
+       - name: "no rsvp"
          value: ""
