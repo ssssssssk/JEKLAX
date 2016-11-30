@@ -1,7 +1,10 @@
 baseurl: /JEKLAX
 exclude: ['README.md']
-
+permalink: pretty
 prose: 
+  rooturl: '_posts'
+  siteurl: 'https://ssssssssk.github.io/JEKLAX/'
+  media: 'media'
   _posts:
   metadata: 
     - name: "layout"
