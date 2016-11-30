@@ -10,8 +10,7 @@ prose:
     _posts:
     - name: title
       field: 
-		
-        element: text
+		element: text
 		label: "title"
     - name: artist
       field: 
