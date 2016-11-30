@@ -6,7 +6,7 @@ prose:
   metadata: 
     - name: "layout"
       field: 
-        element: select
+        element: "select"
         label: "choose what type of email"
         placeholder: "PR or SD"
           options: 
