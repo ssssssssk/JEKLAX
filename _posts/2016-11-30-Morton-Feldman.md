@@ -10,6 +10,7 @@ contact-email: press
 photo-credit: "\"Above images: Morton Feldman photographed by Irene Haupt. Courtesy of MEC; Turkish Kirschehir rug, 3\x921\x94 x 4\x92 6\x94,  circa 1900, courtesy of Claremont Rug Company.\""
 link-onsite: '"http://laxart.org/events/view/morton-feldmans-crippled-symmetry/"'
 image-link: '"https://laxart-media.s3.amazonaws.com/images/3ade4R0-TdSCcZCZmbKfEA.jpg"'
+category: press
 ---
 "For me at least sound was the hero, and it still is. I feel that I'm subservient. I feel that I listen to my sounds, and I do what they tell me, not what I tell them. Because I owe my life to these sounds. Right? They gave me a life." — Morton Feldman.
 
