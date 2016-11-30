@@ -34,6 +34,15 @@ prose:
      field: 
       element: "text"
       label: "image link"
+   - name: "orientation"
+     field: 
+      element: "select"
+      label: "Choose image orientation"
+      options:
+       - name: "portrait" 
+         value: "80"
+       - name: "landscape"
+         value: "100"
    - name: "photo-credit"
      field: 
       element: "text"
@@ -51,12 +60,12 @@ prose:
          value: "press"
        - name: "Save The Date"
          value: "dates"
-   - name: "orientation"
+   - name: "rsvp"
      field: 
       element: "select"
-      label: "Choose image orientation"
+      label: "RSVP to LAXART RSVP email?"
       options:
-       - name: "portrait" 
-         value: "80"
-       - name: "landscape"
-         value: "100"
+       - name: "Yes" 
+         value: "<br class="">Please RSVP: <a href="mailto:rsvp@laxart.org" class="" style="text-decoration: none; color: black;">rsvp@laxart.org </a>"
+       - name: "No"
+         value: ""
