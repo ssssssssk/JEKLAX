@@ -6,7 +6,7 @@ prose:
     _posts:
     - name: layout
       field: 
-        element: "multiselect"
+        element: "select"
         label: "choose what type of email"
         placeholder: "PR or SD"
           options: 
