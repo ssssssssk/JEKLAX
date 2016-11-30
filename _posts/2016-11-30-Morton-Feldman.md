@@ -11,6 +11,7 @@ photo-credit: "Above images: Morton Feldman photographed by Irene Haupt. Courtes
 link-onsite: 'http://laxart.org/events/view/morton-feldmans-crippled-symmetry/'
 image-link: 'https://laxart-media.s3.amazonaws.com/images/3ade4R0-TdSCcZCZmbKfEA.jpg'
 category: press
+orientation: '100'
 ---
 "For me at least sound was the hero, and it still is. I feel that I'm subservient. I feel that I listen to my sounds, and I do what they tell me, not what I tell them. Because I owe my life to these sounds. Right? They gave me a life." — Morton Feldman.
 
