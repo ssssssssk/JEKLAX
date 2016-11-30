@@ -3,4 +3,14 @@ exclude: ['README.md']
 prose: 
  rooturl: '_posts'
  media: 'media'
-
+ metadata: 
+  _posts:
+   - name: "layout"
+     field: 
+      element: "select"
+      label: "Choose layout"
+      options:
+       - name: "PR-FINAL" 
+         value: "PR-FINAL"
+       - name: "SD-FINAL"
+         value: "SD-FINAL"
