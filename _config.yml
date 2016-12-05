@@ -68,4 +68,4 @@ prose:
 #       - name: "rsvp" 
 #         value: "<br>Please RSVP: <a href="mailto:rsvp@laxart.org" style="text-decoration: none; color: black;">rsvp@laxart.org </a>"
 #       - name: "no rsvp"
-#         value: 
+#          value: 
