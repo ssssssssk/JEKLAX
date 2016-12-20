@@ -1,6 +1,6 @@
 ---
 layout: PR-FINAL
-orientation: '80'
+orientation: '100'
 category: press
 published: true
 artist: CAULEEN SMITH
