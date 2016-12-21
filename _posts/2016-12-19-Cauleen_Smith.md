@@ -19,7 +19,7 @@ LAXART is pleased to present a dialogue between filmmaker Cauleen Smith and art 
 Smith was awarded the 2016 Alpert Award in visual art and was the first recipient of The Ellsworth Kelly Award from the Foundation for Contemporary Art, given to the artist for Give It Or Leave It, a solo exhibition linked to The Warplands by research and a book. Give It Or Leave It is forthcoming at the Institute of Contemporary Art, University of Pennsylvania in 2018. 
 
 
-__About the Artist__
+__About the Artist__ 
 Smith is known for a group of influential films and videos, moving image installations and objects with connections to experimental film and third world cinema; structuralism and science fiction. A California native, Smith was born in Riverside, grew up in Sacramento and was educated at San Francisco State University (BA) and the University of California, Los Angeles (MFA, Film). Recent films, such as *Crow Requiem* and *The Way Out Is the Way To*, move between Smith’s active study of multiple histories and archives (avant-garde, African-American histories and improvisational music), and Smith’s response to recent and ongoing violence against people of color at the hands of the state.
 
 This program is co-presented with the University Art Galleries, University of California, Irvine, where Cauleen Smith’s exhibition, *The Warplands*, opens January 14, 2017, curated by Rhea Anastas. 
