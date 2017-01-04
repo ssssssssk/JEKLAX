@@ -2,7 +2,7 @@
 layout: SD-FINAL
 orientation: '80'
 category: dates
-published: false
+published: true
 image-link: 'https://laxart-media.s3.amazonaws.com/images/MJQYOMPFQlCLT_ctfjMGVg.JPG'
 show-dates: 'Saturday, January 7. <br> 4-6pm'
 artist: >-
