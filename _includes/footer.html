@@ -2,29 +2,30 @@
 						<tbody class="">
 							<tr class="" style="font-family: avenir, 'avenir next', helvetica, arial, sans-serif;">
 								<td colspan="3" bgcolor="white" class="" style="font-size: 16px; color: black;">
-									<a href="http://laxart.org/exhibitions/" class="" style="text-decoration: none; color: black;"><span style="text-align: right;">Currently:</span></a>
+									<a href="http://laxart.org/exhibitions/" class="" style="text-decoration: none; color: black;">
+										<span style="font-family: avenir, 'avenir next', helvetica, arial, sans-serif; text-align: right;">Currently:</span></a>
 									<br class="">
 								</td>
 							</tr>
 							<tr class="" style="font-family: avenir, 'avenir next', helvetica, arial, sans-serif;  letter-spacing: 1px;">
 								<td width="5%" valign="top" bgcolor="white" class="">
 								</td>
-								<td valign="top" bgcolor="white" class="" width=500 style="font-size: 16px; line-height: 1.2; letter-spacing: 0.5px; color: black;">
+								<td valign="top" bgcolor="white" class="" width=500 style="font-family: avenir, 'avenir next', helvetica, arial, sans-serif; font-size: 16px; line-height: 1.2; letter-spacing: 0.5px; color: black;">
 								{% for footer in site.categories.footer limit:1 %}
 									<a href="{{footer.link}}" class="" style="text-decoration: none; color: black;">
 									<br class="">{{footer.artist}}
-									<br class=""><i>{{footer.show}}</i> 
-									<br class="">{{footer.startdate}}{{footer.enddate}}</a> 
+									<br class=""><i>{{footer.show}}</i>
+									<br class="">{{footer.startdate}}{{footer.enddate}}</a>
 									<br class=""></a>
 									<a href="{{footer.link2}}" class="" style="text-decoration: none; color: black;">
 									{{footer.artist2}}
-									<i>{{footer.show2}}</i> 
-									{{footer.startdate2}}{{footer.enddate2}}</a> 
+									<i>{{footer.show2}}</i>
+									{{footer.startdate2}}{{footer.enddate2}}</a>
 									<br class="">
 									<a href="{{footer.link3}}" class="" style="text-decoration: none; color: black;">
 									{{footer.artist3}}
-									<i>{{footer.show3}}</i> 
-									{{footer.startdate3}}{{footer.enddate3}}</a> 
+									<i>{{footer.show3}}</i>
+									{{footer.startdate3}}{{footer.enddate3}}</a>
 
 									{% endfor %}
 									<img apple-inline="yes" height="1" width="311" apple-width="yes" apple-height="yes" src="https://laxart-media.s3.amazonaws.com/images/hu51kB5hR6aM2w-aLhBkfw.jpg" class="">
