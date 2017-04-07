@@ -1,18 +1,18 @@
 ---
 layout: footer
-artist: 'LAXART 2017 Auction and Benefit  '
-show: TICKETS NOW AVAILABLE!
-startdate: 'JAN. 22, 2017'
-enddate: ''
-link: 'http://laxart.org/index/support/'
-artist2: <br>LAXART’s galleries are currently closed for installation.
-show2: <br>
-startdate2: <br>
-enddate2: ''
-link2: ''
-artist3: <br>We will open February 18th, 2017 with an exhibition of the work of the 1960s collective
-show3: <br>Environmental Communication.
-startdate3: <br>
+artist: ''
+show: 'RECONSTITUTION'
+startdate: 'APR. 23, 2017'
+enddate: 'MAY 27, 2017'
+link: 'http://laxart.org/exhibitions/upcoming/'
+artist2: '<br>Two concerts by: <br>David Grubbs and Eli Keszler<br>APR. 11, 2017 8pm &amp; APR. 12, 2017 8pm'
+show2:
+startdate2:
+enddate2: <br>
+link2: 'http://laxart.org/events/'
+artist3: ''
+show3: ''
+startdate3: ''
 enddate3: null
 link3: ''
 category: footer
