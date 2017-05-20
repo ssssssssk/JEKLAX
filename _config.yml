@@ -1,21 +1,22 @@
 baseurl: /JEKLAX
 exclude: ['README.md']
-prose: 
+encoding: UTF-8
+prose:
  rooturl: '_posts'
  media: 'media'
- metadata: 
+ metadata:
   _posts:
    - name: "layout"
-     field: 
+     field:
       element: "select"
       label: "Choose layout"
       options:
-       - name: "PR-FINAL" 
+       - name: "PR-FINAL"
          value: "PR-FINAL"
        - name: "SD-FINAL"
          value: "SD-FINAL"
    - name: "artist"
-     field: 
+     field:
       element: "text"
       label: "artist name"
    - name: "show"
@@ -23,7 +24,7 @@ prose:
       element: "text"
       label: "show"
    - name: "show-dates"
-     field: 
+     field:
       element: "text"
       label: "start and end dates with &mdash; in between"
    - name: "contact-email"
@@ -31,20 +32,20 @@ prose:
       element: "text"
       label: "contact email @laxart.org is presumed so just the name"
    - name: "image-link"
-     field: 
+     field:
       element: "text"
       label: "image link"
    - name: "orientation"
-     field: 
+     field:
       element: "select"
       label: "Choose image orientation"
       options:
-       - name: "portrait" 
+       - name: "portrait"
          value: "80"
        - name: "landscape"
          value: "100"
    - name: "photo-credit"
-     field: 
+     field:
       element: "text"
       label: "photo credit full text"
    - name: "link-onsite"
@@ -52,20 +53,20 @@ prose:
       element: "text"
       label: "Link to show on website"
    - name: "category"
-     field: 
+     field:
       element: "select"
       label: "select category"
       options:
-       - name: "Press Release" 
+       - name: "Press Release"
          value: "press"
        - name: "Save The Date"
          value: "dates"
    - name: "rsvp"
-     field: 
+     field:
       element: "select"
       label: "RSVP to LAXART RSVP email?"
 #      options:
-#       - name: "rsvp" 
+#       - name: "rsvp"
 #         value: "<br>Please RSVP: <a href="mailto:rsvp@laxart.org" style="text-decoration: none; color: black;">rsvp@laxart.org </a>"
 #       - name: "no rsvp"
-#          value: 
+#          value:
