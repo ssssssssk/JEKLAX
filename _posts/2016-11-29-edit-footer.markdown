@@ -1,15 +1,16 @@
 ---
 layout: footer
-artist: ''
-show: 'RECONSTITUTION'
-startdate: 'APR. 23, 2017'
-enddate: ' &mdash; MAY 27, 2017'
-link: ''
-artist2: ''
-show2:
-startdate2:
+artist: 'Gabriela Torres Olivares'
+show: 'Book Launch with Janet Sarbanes and Les Figues Press
+'
+startdate: 'June 13, 6:30pm'
+enddate: '<br>'
+link: 'http://laxart.org/events/'
+artist2: '<i>On Destruction and Demolition:</i> <br>A talk with artist Mary Ellen Carroll in anticipation of her <i>Demolition Derby</i>'
+show2: ''
+startdate2: '<br>June 29, 7pm'
 enddate2: <br>
-link2: ''
+link2: 'http://laxart.org/events/'
 artist3: ''
 show3: ''
 startdate3: ''
