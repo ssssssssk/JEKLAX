@@ -1,15 +1,15 @@
 ---
-layout: footer
+layout:
 artist: ''
 show: 'RAPHAEL MONTANEZ ORTIZ'
 startdate: 'June 9, 2017 '
 enddate: '&mdash; July 15, 2017'
 link: 'http://laxart.org/exhibitions/view/raphael-montanez-ortiz/'
-artist2: '<br><i>On Destruction and Demolition:</i> <br>A talk with artist Mary Ellen Carroll in anticipation of her <i>Demolition Derby</i>'
+artist2: ''
 show2: ''
-startdate2: '<br>June 29, 7pm'
+startdate2: ''
 enddate2: <br>
-link2: 'http://laxart.org/events/'
+link2: ''
 artist3: ''
 show3: ''
 startdate3: ''
