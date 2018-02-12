@@ -1,10 +1,10 @@
 ---
 layout:
-artist: ''
-show: 'RAPHAEL MONTANEZ ORTIZ'
-startdate: 'June 9, 2017 '
-enddate: '&mdash; July 15, 2017'
-link: 'http://laxart.org/exhibitions/view/raphael-montanez-ortiz/'
+artist: 'EVERY BUILDING IN BAGHDAD:' 
+show: 'The Rifat Chadirji Archives at the Arab Image Foundation'
+startdate: 'January 7 &mdash;'
+enddate: 'February 17, 2018'
+link: 'http://laxart.org/exhibitions/view/every-building-in-baghdad-the-rifat-chadirji-archives-at-the-arab-image-foundation/'
 artist2: ''
 show2: ''
 startdate2: ''
